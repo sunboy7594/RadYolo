@@ -205,3 +205,14 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# RadYOLO 전용
+.claude/
+RadYOLO/data/
+RadYOLO/models/
+RadYOLO/third_party/
+잡다한data/
+*.bin
+*.mat
+*.pth
+*.pt

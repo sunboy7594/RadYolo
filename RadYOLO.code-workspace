@@ -1,0 +1,17 @@
+{
+  "folders": [
+    {
+      "name": "RadYOLO",
+      "path": "./RadYOLO"
+    },
+    {
+      "name": "RadYOLO-GDD",
+      "path": "./RadYOLO-GDD"
+    },
+    {
+      "name": "RadYOLO-Devlog",
+      "path": "./RadYOLO-Devlog"
+    }
+  ],
+  "settings": {}
+}

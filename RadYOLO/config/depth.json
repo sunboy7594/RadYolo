@@ -1,0 +1,4 @@
+{
+  "realtime_model": "models/depth_anything_v2_vits.pth",
+  "background_model": "models/depth_anything_v2_vitl.pth"
+}
